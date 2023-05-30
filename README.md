@@ -1,6 +1,6 @@
 ### Hi there 👋
-I know C#, SQL, .NetFramework, and OOP .Now I'm learning HTML, CSS,Bootstrapt, JavaScript and React. I'm excited to start building my own projects and learning more about web development.
-🎓 I'm currently enrolled in a 6-month front-end development course.
+I know  HTML, CSS,Bootstrapt, JavaScript and React. I'm excited to start building my own projects and learning more about web development.
+
 ❤️ I'm passionate about learning new technologies and building projects.
 🔭 I'm currently working on some small projects to practice my skills.
 🥅Goals
