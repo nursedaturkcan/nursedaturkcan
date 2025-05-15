@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate React Frontend Developer from Turkey</h3>
 
-🔭 As a Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, REDUX-TOOLKIT,middlewares such as redux-thunk CONTEXT API to create dynamic web pages. At the moment I'm learning TypeScript and React Native.
+🔭 As a Mobile and Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, REDUX-TOOLKIT,REACT NATIVE, TYPESCRIPT, middlewares such as redux-thunk CONTEXT API to create dynamic web pages. At the moment I'm learning node.js.
 
 🌱 I'm in research to dig deeper into Javascript and React.
 
