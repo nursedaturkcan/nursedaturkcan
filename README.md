@@ -7,29 +7,23 @@
 
 <h1 align="center">Hi 👋, I'm Nurseda</h1>
 
-<h3 align="center">A passionate React Frontend Developer from Turkey</h3>
-
-🔭 As a Mobile and Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, REDUX-TOOLKIT,REACT NATIVE, TYPESCRIPT, middlewares such as redux-thunk CONTEXT API to create dynamic web pages. At the moment I'm learning node.js.
-
-🌱 I'm in research to dig deeper into Javascript and React.
-
-⚡ In my free time, I research new codes and read tech articles.
-
-📫How to reach me: nursedaturkcan123@gmail.com
 
 
+### Senior React Native Developer | Mobile Engineer | Biomedical Engineer
 
+I'm a Mobile Software Engineer with 6 years of experience building and maintaining cross-platform mobile applications using React Native, TypeScript, JavaScript, Swift, and Kotlin.
 
+My experience includes:
+- Developing scalable React Native applications for iOS and Android.
+- Integrating native iOS and Android features.
+- State management with Redux Toolkit.
+- Working with REST APIs, Firebase, and microservices.
+- Real-time notifications and messaging systems.
+- Implementing iOS Live Activities and Dynamic Island integrations.
+- Using AI-assisted development tools to improve productivity and code quality.
 
+I'm passionate about building reliable mobile products, exploring native technologies, and continuously improving my engineering skills.
 
+📍 Based in Türkiye | Open to International Remote Opportunities
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nursedaturkcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nursedaturkcan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/nursedaturkcan/).
